@@ -1,0 +1,12 @@
+AAAA east=BBBB south=EEEE
+BBBB west=AAAA east=CCCC south=FFFF
+CCCC west=BBBB east=DDDD south=GGGG
+DDDD west=CCCC south=HHHH
+EEEE north=AAAA east=FFFF south=IIII
+FFFF west=EEEE north=BBBB east=GGGG south=JJJJ
+GGGG west=FFFF north=CCCC east=HHHH south=KKKK
+HHHH west=GGGG north=DDDD south=LLLL
+IIII north=EEEE east=JJJJ
+JJJJ west=IIII north=FFFF east=KKKK
+KKKK west=JJJJ north=GGGG east=LLLL
+LLLL west=KKKK north=HHHH

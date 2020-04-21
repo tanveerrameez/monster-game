@@ -1,4 +1,5 @@
 # Project Title
+A Monsters attacking a city game
 Please see instructions.md for description of the problem
 
 # Getting Started

@@ -1,5 +1,4 @@
 # Project Title
-Test project - Monster from MimeCast
 Please see instructions.md for description of the problem
 
 # Getting Started
